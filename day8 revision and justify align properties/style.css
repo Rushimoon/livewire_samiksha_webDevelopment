@@ -1,0 +1,46 @@
+#main_div{
+     height: 250px;
+    width: 90%;
+    border: 1px solid red;
+    margin: auto;
+    /* padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-right: 50px; */
+/*   
+  padding: 50px 50px; */
+    display: flex; 
+    justify-content: center;
+    /* justify-content: end; */
+
+
+    /* maintains space  at center*/
+    justify-content: space-around;
+       /* maintains maximum space */
+    justify-content: space-between;
+     /* maintains even space between all items */
+    justify-content: space-evenly;
+
+     align-items: center; 
+
+
+    /* align-items: baseline;
+
+    align-items: end;
+
+
+    align-items:first baseline ;
+
+    align-items: flex-end;
+
+    align-items: last baseline; */
+    
+
+}
+.s_div{
+    height: 100px;
+    width: 250px;
+    background-color: aqua;
+    
+
+}

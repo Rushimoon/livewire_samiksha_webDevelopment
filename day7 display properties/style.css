@@ -1,0 +1,27 @@
+#card{
+    border: 1px solid red;
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    padding:100px;
+}
+#main_img{
+  
+   border: 1px solid black;
+    width: 200px;
+    /* margin-left:70px; */
+    margin: auto;
+}
+#main_div{
+    border: 1px solid red;
+    width:auto;
+    height: 200px;
+    /* margin: auto; */
+    /* margin-left: 200px;
+    margin-top: 200px; */
+    margin: 50px 100px;
+    display: flex;
+}
+.chota_div{
+    border: 1px solid blue;
+}

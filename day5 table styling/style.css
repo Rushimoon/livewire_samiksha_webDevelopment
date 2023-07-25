@@ -1,0 +1,26 @@
+table{
+    border: 1px dashed;
+    border-collapse:inherit;
+     border-spacing: 50px;
+
+   }
+
+th,tr,td {
+ border-color: black;
+ border-width: 2px;
+ border-style: dotted ;
+ width: 300px;
+text-align: center;
+/* padding: 50px; */
+/* text-align: left; */
+/* text-align: right; */
+/* text-align: justify; */
+
+}
+td{
+    
+     /* padding: 50px; */
+ 
+     
+
+    }

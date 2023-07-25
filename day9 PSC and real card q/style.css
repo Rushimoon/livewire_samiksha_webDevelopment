@@ -1,0 +1,30 @@
+#maindiv{
+  border: 2px solid red;
+  display: flex;
+}
+#ldiv{
+   border: 2px solid green;
+}
+
+#rdiv{
+  border: 2px solid cyan;
+}
+#title{
+ font-family:Roboto ;
+ font-style: normal;
+ font-weight: 400;
+ font-size: 18px;
+ line-height: 24px;
+
+}
+#ratingImg{
+  border: 1px solid red;
+  width: 100px;
+  height: 50px;
+}
+#pricediv{
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}

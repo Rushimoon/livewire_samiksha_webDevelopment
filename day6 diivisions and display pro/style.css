@@ -1,0 +1,14 @@
+#card{
+    border: 1px solid red;
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    padding:100px;
+}
+#main_img{
+  
+   border: 1px solid black;
+    width: 200px;
+    /* margin-left:70px; */
+    margin: auto;
+}
