@@ -1,0 +1,42 @@
+#parent > p , #parent >h1{
+    background-color: rgb(226, 122, 11);
+}
+
+
+/* #parent p  ,#parent h1{
+    background-color: blue;
+} */
+
+#parent>div{
+
+font-size: 35px ;
+color: chartreuse;
+}
+
+#grandfather  {
+    
+    border: 5px solid red;
+
+}
+
+#papa1{
+    border: 3px solid blue ;
+}
+#papa2{
+    border: 3px solid rgb(14, 235, 18) ;
+}
+#papa3{
+    border: 3px solid rgb(12, 95, 173) ;
+}
+
+#papa1 + h1{
+    border: 9px solid red;
+}
+#papa1 ~ h1
+{
+    color: cadetblue;
+}
+
+/* p ~ p{
+    border: 9px solid rgb(20, 206, 100);
+} */
