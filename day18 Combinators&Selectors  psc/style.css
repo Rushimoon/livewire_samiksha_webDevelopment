@@ -1,0 +1,20 @@
+/* p + p{
+    font-size: 30px;
+    color: blue;
+} */
+/* p + h1{
+    font-size: 30px;
+    color: blue;
+} */
+p ~ p{
+    font-size: 30px;
+    color: blue;
+}
+h1+img{
+    border: 5px solid red;
+    width: 200px;
+}
+h2+img{
+    border: 5px solid rgb(19, 233, 204);
+    width: 300px;
+}

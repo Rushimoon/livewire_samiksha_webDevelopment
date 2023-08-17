@@ -1,0 +1,10 @@
+#navbar{
+    display:inline-flex ;
+
+}
+ul{
+    display: inline-flex;
+}
+#datalist{
+    display: none;
+}
