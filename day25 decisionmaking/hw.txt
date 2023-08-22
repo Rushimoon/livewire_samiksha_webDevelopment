@@ -1,0 +1,71 @@
+1 create a  class for mahindra  company where have some properties  such as  power steering , ac , type , name , ......;
+
+
+===========================================================
+Print the numbers from 12 to 24
+====================================================================
+Print the ODD numbers from 7 to 31
+========================================================================
+
+ Print the EVEN numbers from 10 to 20
+============================================================================
+Iterate through all numbers from 1 to 45. Print the following:
+
+For multiples of 3 print “Fizz”
+For multiples of 5 print “Buzz”
+For multiples of 3 and 5 print “FizzBuzz”
+========================================================================
+Print all the elements of the following array
+
+var thisIsAnArray = ["element1", "element2", "element3", "element4"];
+============================================================================
+Calculate the sum of all the numbers in the following array
+
+var numbersArray = [1,13,22,123,49]
+=============================================================================
+
+function `isEvenOrOdd()` checks if input number is even or odd by using “%” operator in JavaScript.
+
+Print “Number is even” if the number is divisible by 2.
+Else print “Number is odd” if the number returns a remainder when divided by 2.
+==============================================================================
+ Find the largest of two number
+Function `findLargest()` finds the largest between two number by using “>” and “=” operator in JavaScript.
+
+Print num1 is the largest if num1>num2.
+Print num2 is the largest if num1<num2.
+Else print num1 and num2 are equal when num1==num2.
+===================================================================================
+Check if a triangle is equilateral, scalene, or isosceles
+Function `findTriangleType()` finds the type of the triangle for given side values by using “==” and “&&” operator in JavaScript.
+function findTriangleType(side1,side2,side3){
+
+if ..........else 
+
+
+}
+ findTriangleType(8,9,8)
+
+
+Print “Equilateral triangle.” if values for all side1, side2 and side3 are equal.
+Print “Isosceles triangle.” if values for side1 is equal to side2 or side2 is equal to side3
+Else “Scalene triangle.” since values of all sides are unequal.
+======================================================================================
+Find the a number is present in given range
+Function `checkInRange()` finds if the given number is within the provided start and end range using >=, <= and && operators in JavaScript.
+
+Print “Between the range” if num is between start and end values
+Else Print “Outside the range” since num is outside start and end values.
+======================================================================================
+Find the grade for input marks
+Function `findGrade()` to find the grade of the student based on the input marks.
+
+Print “S grade” if marks is between 90 and 100.
+Print “A grade” if marks is between 80 and 90.
+Print “B grade” if marks is between 70 and 80.
+Print “C grade” if marks is between 60 and 70.
+Print “D grade” if marks is between 50 and 60.
+Print “E grade” if marks is between 40 and 50.
+Print “Student has failed” if marks is between 0 and 40.
+Else print “Invalid marks”.
+=============================================================================================
