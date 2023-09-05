@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <h1>post the obj in database</h1>   
+post the obj in database
+
+<form action="" id="product_form">
+<input type="number" name="nid" id="id"  type="number" placeholder="enter id">
+<input type="text" name="productName"  id="pn" placeholder="Enter the product name">
+<input type="number" name="productPrice" id="prodPrice" placeholder="product price">
+<input type="text" name="productImage" id="prodImg" placeholder="Enter product image">
+<input type="submit" onclick="getdata()">
+</form>
+
+
+<h1>update the objects</h1>
+
+<form action="" id="productUpdate_form">
+    <input type="number" name="nid" id="id"  type="number" placeholder="enter id">
+    <input type="text" name="productName"  id="pn" placeholder="Enter the product name">
+    <input type="number" name="productPrice" id="prodPrice" placeholder="product price">
+    <input type="text" name="productImage" id="prodImg" placeholder="Enter product image">
+    <input type="submit" onclick="updateData()">
+    </form>
+<!-- <div id="moon"></div>
+<div class="moon"></div> -->
+<h3>delete items</h3>
+<input type="text" id="deleteid" placeholder="deleteitems">
+<button onclick="deletedata()">click to delete</button>
+
+
+<div id="container">
+    
+</div>
+
+</body>
+</html>
+<script src="./script.js"></script>

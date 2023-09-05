@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "onePlus",
+      "productPrice": "17000",
+      "productImg": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70"
+    },
+    {
+      "id": "_CGGeFz",
+      "productName": "onplus2T",
+      "productPrice": "28000",
+      "productImg": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/f/a/v/-original-imagfx6b9shazw8u.jpeg?q=70"
+    },
+    {
+      "id": "123123",
+      "productName": "abcd",
+      "productPrice": "5444864",
+      "productImg": "https://rukminim2.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70"
+    },
+    {
+      "id": "22",
+      "productName": "watch",
+      "productPrice": "213123",
+      "productImg": "https://rukminim2.flixcart.com/image/416/416/ktketu80/mobile/8/z/w/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg?q=70"
+    },
+    {
+      "id": "peLQy6p",
+      "productName": "qweqwe",
+      "productPrice": "123123",
+      "productImg": "weqweqw"
+    },
+    {
+      "id": "122",
+      "productName": "onePlus",
+      "productPrice": "12312321",
+      "productImg": "https://rukminim2.flixcart.com/image/416/416/ktketu80/mobile/8/z/w/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg?q=70"
+    },
+    {
+      "id": "VLBhkCy",
+      "productName": "Canon EOS M50 Mark II Mirrorless Camera EF-M15-45mm is STM Lens  (Black)",
+      "productPrice": "123123",
+      "productImg": "https://rukminim2.flixcart.com/image/312/312/knyxqq80/dslr-camera/r/y/x/digital-camera-eos-m50-mark-ii-eos-m50-mark-ii-canon-original-imag2gzkexzqhyhu.jpeg?q=70"
+    }
+  ]
+}
